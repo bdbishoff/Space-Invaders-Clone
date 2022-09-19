@@ -1,0 +1,32 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 3050 Ti Laptop GPU (ID=0x25a0)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   30.0.101.2079
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Builds\Invaders_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Builds\Invaders_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Builds\Invaders_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Builds\Invaders_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Builds\Invaders_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Builds\Invaders_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Builds\Invaders_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Builds\Invaders_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Builds\Invaders_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\Builds\Invaders_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  1.295 seconds
+Platform assembly: E:\Builds\Invaders_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Builds\Invaders_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 4800x1381 at 0,-301
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.746000 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 21a4 -> priority: 1 
+  Thread -> id: 110c -> priority: 1 
+  Thread -> id: 2fd0 -> priority: 1 
+  Thread -> id: 49d8 -> priority: 1 
